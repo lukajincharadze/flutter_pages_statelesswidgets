@@ -82,7 +82,7 @@ class OtherPage2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Other Page"),
+        title: Text("Other Page2"),
         automaticallyImplyLeading: false,
 
       ),
